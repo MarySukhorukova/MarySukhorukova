@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%616161&lines=Добро+пожаловать+и+привет!+👋)](https://git.io/typing-svg)
+## Добро пожаловать и привет! 👋
 
 
 
