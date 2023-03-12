@@ -12,7 +12,7 @@
 
 ______________
 
-## :hammer_and_wrench: Languages and Tools :
+## :hammer_and_wrench: Языки и инструменты :
 <div>
     <img src="https://github.com/MarySukhorukova/MarySukhorukova/blob/main/img/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
     <img src="https://github.com/MarySukhorukova/MarySukhorukova/blob/main/img/pytest-original.svg" title="Pytest" alt="Pytest" width="40" height="40"/>&nbsp;
