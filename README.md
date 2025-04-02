@@ -1,7 +1,7 @@
 ## Hi, I'm Maria 👋
 
 
-🚀 Hi, I'm a QA Engineer with over 5 years of experience in software testing
+🚀 I'm a QA Engineer with over 5 years of experience in software testing
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/marysukhorukova/)
 
