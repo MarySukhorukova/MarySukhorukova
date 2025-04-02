@@ -1,12 +1,9 @@
-## Добро пожаловать и привет! 👋
+## Hi, I'm Maria 👋
 
 
+🚀 Hi, I'm a QA Engineer with over 5 years of experience in software testing
 
-Меня зовут Мария. Я QA Engineer
-
-🚀 У меня более 3-х лет опыта ручного тестирования, а также небольшой опыт написания и поддержки автотестов на Python (UI/API)
-
-📫 Как со мной связаться: https://www.linkedin.com/in/marysukhorukova/
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/marysukhorukova/)
 
 
 
